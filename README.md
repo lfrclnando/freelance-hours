@@ -1,66 +1,60 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img src="public/Thumbnail.png" alt="Página do Freelance Hours"></a>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+## Sobre o Projeto
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Uma landing page que simulando uma plataforma para desktop onde freelancers enviam propostas de horas, que eles podem
+contribuir nos projetos apresentados. </br>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+É um projeto criado exclusivamente para o curso gratuíto de PHP da Rocketseat. </br>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Foram utilizados:
 
-## Learning Laravel
+- [PHP](https://www.php.net/) como linguagem de programação.
+- [Laravel](https://laravel.com/) como framework para a estrutura e organização do projeto.
+- [Herd](https://herd.laravel.com) como ambiente de desenvolvimento Laravel e PHP.
+- [LiveWire](https://laravel-livewire.com/) como criador de interfaces dinâmicas e reativas.
+- [Tailwind](https://tailwindcss.com/) como framework CSS.
+- [SQLite](https://www.sqlite.org/) como banco de dados.
+- [Dbdiagram.io](https://dbdiagram.io/home) como ferramenta para desenhar digramas ER para banco de dados.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## About Project
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+A landing page that simulates a desktop platform where freelancers submit proposals for hours that they can
+contribute to the projects presented. </br>
 
-## Laravel Sponsors
+It's a project created exclusively for Rocketseat's free PHP course. </br>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Were used:
 
-### Premium Partners
+- [PHP](https://www.php.net/) as a programming language.
+- [Laravel](https://laravel.com/) as a framework for project structure and organization.
+- [Herd](https://herd.laravel.com) as Laravel and PHP development environment.
+- [LiveWire](https://laravel-livewire.com/) as a creator of dynamic and reactive interfaces.
+- [Tailwind](https://tailwindcss.com/) as a CSS framework.
+- [SQLite](https://www.sqlite.org/) as a databases.
+- [Dbdiagram.io](https://dbdiagram.io/home) as a tool for designing ER diagrams for databases.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
-## Contributing
+### Sobre el Proyecto
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Una landing page que simula una plataforma para desktop en que los autónomos presentan propuestas de horas que pueden
+aportar a los proyectos presentados. </br>
 
-## Code of Conduct
+Es un proyecto creado exclusivamente para el curso gratuito de PHP de Rocketseat. </br>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Se han utilizado:
 
-## Security Vulnerabilities
+- [PHP](https://www.php.net/) como lenguaje de programación.
+- [Laravel](https://laravel.com/) como framework para la estructura y organización del proyecto.
+- [Herd](https://herd.laravel.com) como entorno de desarrollo Laravel y PHP.
+- [LiveWire](https://laravel-livewire.com/) como creador de interfaces dinámicas y reactivas.
+- [Tailwind](https://tailwindcss.com/) como framework CSS.
+- [SQLite](https://www.sqlite.org/) como base de datos.
+- [Dbdiagram.io](https://dbdiagram.io/home) como herramienta de diseño de digramas ER para bases de datos.
+</br>
+</br>
+<p align="right">Fernando 🎉😁:)</p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
